@@ -8,6 +8,6 @@ def f(n):
 
 def g(n):
     j = 0
-    for i in range(1, n):  # range(1, n) 會生成從 1 到 n-1 的數字
+    for i in range(1, n):
         j += f(i)
     return j
