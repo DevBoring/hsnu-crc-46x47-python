@@ -1,4 +1,5 @@
 #    陣列二分演算法(Array bisection algorithm)
+by : R緯
 ##    [Python官方 bisect](https://docs.python.org/zh-tw/3.10/library/bisect.html#bisect.bisect)
 `bisect` 是 Python 標準庫中的一個模組，主要用於在已排序的序列中進行二分搜尋和插入操作。這個模組提供了幾個函數，可以幫助你快速找到元素的位置，並在保持序列有序的情況下插入新元素。
 
