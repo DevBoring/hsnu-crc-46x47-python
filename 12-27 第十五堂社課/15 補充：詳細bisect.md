@@ -324,7 +324,7 @@ $$\log_a n = \frac{\log_b n}{\log_b a}$$
 
 其中 $a$ 和 $b$ 是任意的正實數底數。
 根據上式,我們可以得到:
-   $$\log_2 n = \frac{\log_e n}{\log_e 2} = \frac{1}{\log_e 2} \log_e n$$
+$$\log_2 n = \frac{\log_e n}{\log_e 2} = \frac{1}{\log_e 2} \log_e n$$
 
 其中 $\log_e n$ 就是自然對數。
 
