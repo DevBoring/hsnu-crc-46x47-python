@@ -1,5 +1,3 @@
-import re
-
 def data_field(statement, index):
     if statement[index+1] != '=':
         return -1
