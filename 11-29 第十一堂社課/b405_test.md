@@ -1,4 +1,4 @@
-```python=
+```python
 class Sequence:
     def __init__(self, initial_sequence):
         self.history = [initial_sequence[:]]  # 保存歷史序列
