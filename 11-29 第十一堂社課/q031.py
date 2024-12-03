@@ -58,7 +58,7 @@ q = int(input())
 results = []
 sequence = Sequence(initial_sequence)  # Create an instance of Sequence
 
-for days in range(q):
+for _ in range(q):
     in_op = list(map(int, input().split()))
     # Decrypt operation
     if sequence.ans == 0:
