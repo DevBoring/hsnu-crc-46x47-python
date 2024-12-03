@@ -28,26 +28,26 @@ class Sequence:
             for i in range(x - 1, y):
                 self.current_sequence[i] += v
         elif op_type == 5:
-            self.history.append(self.current_sequence[:])
+            #self.history.append(self.current_sequence[:])
             x = operation[1]
             y = operation[2]
             self.ans = max(self.current_sequence[x - 1:y])
             return self.ans
         elif op_type == 6:
-            self.history.append(self.current_sequence[:])
+            #self.history.append(self.current_sequence[:])
             x = operation[1]
             y = operation[2]
             self.ans = min(self.current_sequence[x - 1:y])
             return self.ans
         elif op_type == 7:
-            self.history.append(self.current_sequence[:])
+            #self.history.append(self.current_sequence[:])
             x = operation[1]
             y = operation[2]
             self.ans = sum(self.current_sequence[x - 1:y])
             return self.ans
         self.history.append(self.current_sequence[:])
-        print(len(self.history))
-        print(len(self.current_sequence))
+        #print(len(self.history))
+        #print(len(self.current_sequence))
         return None  # Explicitly return None if no result is produced
 
 # Main execution
@@ -65,7 +65,7 @@ for days in range(1, q + 1):
         operation = in_op
     else:
         operation = [x ^ sequence.ans for x in in_op]
-    print(operation)
+    #print(operation)
     result = sequence.apply_operation(operation)  # Call the method on the instance
     if result is not None:
         results.append(result)
