@@ -10,7 +10,7 @@
 | 9/27  |03 條件判斷、基本運算子、***while迴圈***   | 03 條件判斷、基本運算子 | ~~李宇紘~~ 廖家緯   |  [03 上課講義](https://hackmd.io/@hihi-ihih/HJkiuGh6C#/) |
 | 10/4  |04 ***for迴圈***| 04 迴圈(1) | 廖家緯 |  [04 上課講義](https://hackmd.io/@ts-boring/HJhlzG30C)|
 | 10/11 |--------| 05 考前自習             | -------- |[05 考前自習](https://hackmd.io/@ts-boring/Byt4UGLJJg)|
-| 10/18 |––––| 06 第一次社內賽         | -------- | [06 題解](https://hackmd.io/@Alvin70812/SyuUAYJl1g)  |
+| 10/18 |--------| 06 第一次社內賽         | -------- | [06 題解](https://hackmd.io/@Alvin70812/SyuUAYJl1g)  |
 | 10/25 |07 介紹陣列、***多變數的輸入***、***遍歷列表***| 07 陣列 | 廖家緯 |[07 上課講義](https://hackmd.io/@ts-boring/S1fIOlOxke)          [07補充：重複結構](https://hackmd.io/@ts-boring/BJF9VN_lkl)|
 | 11/1  | 08 迴圈、串列、***stack簡介***    | 08 迴圈(2)| 黃楷峻|[08 上課講義](https://hackmd.io/@Alvin70812/HJ0jHyg-Jl#/)|
 | 11/8  | 09 函式、***變數範圍*** | 09 函式                 | 廖家緯   |[09 上課講義](https://hackmd.io/@ts-boring/B1X2LDqZ1x)|
