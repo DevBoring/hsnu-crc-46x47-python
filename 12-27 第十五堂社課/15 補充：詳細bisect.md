@@ -326,13 +326,13 @@ $$\log_a n = \frac{\log_b n}{\log_b a}$$
 其中 $a$ 和 $b$ 是任意的正實數底數。
 根據上式,我們可以得到:
 
-$$\log_2 n = \frac{\log_e n}{\log_e 2} = \frac{1}{\log_e 2} \log_e n$$
+$$\log_2 n = \frac{\ln n}{\ln 2} = \frac{1}{\ln 2} \ln n$$
 
-其中 $\log_e n$ 就是自然對數。
+其中 $\ln n$ 就是自然對數。
 
-由於 $\frac{1}{\log_e 2}$ 是一個常數,因此
+由於 $\frac{1}{\ln 2}$ 是一個常數,因此
 
-$$\log_2 n = O(\log_e n) = O(\log n)$$
+$$\log_2 n = O(\ln n) = O(\log n)$$
 
 也就是說,不管我們使用以 2 為底還是以自然對數為底,時間複雜度都是 $O(\log n)$。因為它們之間只相差一個常數因子。
 
