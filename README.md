@@ -19,7 +19,7 @@
 | 11/29 |   12 資料結構 - list, set, tuple, dict  | 12 資料結構(1)          | 李宇紘   |  [12 上課講義](https://hackmd.io/@hihi-ihih/rJulQalX1l)                                                        |
 | 12/6  |--------| -- 迷你馬拉松           | -------- | --------                                                 |
 | 12/13 |--------| 13 第二次社內賽         | -------- |[13 題解](https://hackmd.io/@Alvin70812/SyU-b3Tmkg)|
-| 12/20 |     | 14 資料結構(2)          | 廖家緯   |                                                          |
+| 12/20 |     | 14 資料結構(2)          | 廖家緯   |[14 上課講義](https://hackmd.io/s_e8khb1T1awp9lMG9C-iA?both)|
 | 12/27 |     | 15 陣列二分演算法(bisect) | 廖家緯   |              [15 補充：詳細bisect](https://hackmd.io/@ts-boring/HJXs545zyl)|
 | 1/3   |     | 16 排序                 | 黃楷峻   |                                                          |
 | 1/10  |     | 17 考前自習             | -------- |  --------   |
