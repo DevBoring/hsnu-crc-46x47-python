@@ -3,7 +3,7 @@
 
 給定一個整數數組 `nums`，請你找出其中最長的不下降子序列的長度。你可以使用 `bisect` 模組來幫助你解決這個問題。
 
-### 函數簽名：
+### 函數：
 ```python
 def length_of_lis(nums: List[int]) -> int:
 ```
