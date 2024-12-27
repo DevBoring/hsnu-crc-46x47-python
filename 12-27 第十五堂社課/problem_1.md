@@ -5,7 +5,7 @@
 
 ### 函數：
 ```python
-def length_of_lis(nums: List[int]) -> int:
+def length_of_lis(nums):
 ```
 
 ### 輸入：
