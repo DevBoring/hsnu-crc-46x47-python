@@ -55,5 +55,5 @@ def t():
         print(nodes[nodes[i].ipt[0]].val, end=' ')
     print()
 
-
-t()
+if __name__ == "__main__":
+    t()
