@@ -1,4 +1,4 @@
-# 讓 YouTube 沒廣告
+# 讓 YouTube 沒廣告 + 偽造Premium 
 
 - Browser
 - Android
