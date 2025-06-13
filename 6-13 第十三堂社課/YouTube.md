@@ -18,9 +18,9 @@ Google Chrome 把 uBlock Origin ban 了，可以用 [uBlock Origin Lite](https:/
 
 2. [Return YouTube Dislike](https://returnyoutubedislike.com/) 可以顯示影片倒贊數
 
-3. Stylus + [YouTube Premium svg logo](https://userstyles.world/style/6769/youtube-premium-svg-logo) 讓logo變Premium (身份地位的象徵)
+3. [Stylus](https://add0n.com/stylus.html) + [YouTube Premium svg logo](https://userstyles.world/style/6769/youtube-premium-svg-logo) 讓logo變Premium (身份地位的象徵)
 
-4. Stylus + [YouTube Chat Bubbles](https://userstyles.world/style/7925/youtube-chat-bubbles) 改變直播聊天室樣式
+4. [Stylus](https://add0n.com/stylus.html) + [YouTube Chat Bubbles](https://userstyles.world/style/7925/youtube-chat-bubbles) 改變直播聊天室樣式
 
 ## Android
 
