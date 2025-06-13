@@ -1,4 +1,4 @@
-# 偽造 YouTube Premium 
+# ~~偽造~~ YouTube Premium 
 
 - Browser
 - Android
