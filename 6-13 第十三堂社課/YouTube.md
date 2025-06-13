@@ -1,4 +1,4 @@
-# 讓YouTube沒廣告
+# 讓 YouTube 沒廣告
 
 - Browser
 - Android
@@ -35,3 +35,12 @@ Google Chrome 把 uBlock Origin ban 了，可以用 [uBlock Origin Lite](https:/
 https://vanced.to/ 有已經 patched 的 ReVanced YouTube apk 可以直接下載
 
 但下載後的 Youtube 會被當成第三方軟體 需要靠 MicroG 作為登入 Google 的橋樑
+
+![](https://github.com/DevBoring/hsnu-crc-46x47-python/blob/main/6-13%20%E7%AC%AC%E5%8D%81%E4%B8%89%E5%A0%82%E7%A4%BE%E8%AA%B2/Screenshot_20250613_121153.png)
+
+## iOS
+
+1. 取得可用 ipa (iOS App Store Package) 檔
+選擇類似 YouTube Premium 的軟體 例如：YTLite, YTLite plus, uYou, uYou plus, uYouEnhanced
+
+以 YTLite 為例
