@@ -43,4 +43,6 @@ https://vanced.to/ 有已經 patched 的 ReVanced YouTube apk 可以直接下載
 1. 取得可用 ipa (iOS App Store Package) 檔
 選擇類似 YouTube Premium 的軟體 例如：YTLite, YTLite plus, uYou, uYou plus, uYouEnhanced
 
-以下以 YTLite 為例
+以下以 YTLite 為例。
+
+2. 到
