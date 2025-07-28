@@ -45,4 +45,10 @@ https://vanced.to/ 有已經 patched 的 ReVanced YouTube apk 可以直接下載
 
 以下以 YTLite 為例。
 
-2. 到
+2. 到 https://sidestore.io/#get-started 按照上面做
+
+3. 在 SideStore 裡安裝 YouTube.ipa （第一次開啟通常會卡住，滑掉重開即可）
+
+4. 記得每7天會過期 SideStore > My Apps 裡刷新
+
+4-1. （可選）用捷徑自動刷新
